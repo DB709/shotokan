@@ -1,0 +1,23 @@
+name = {
+ [
+  "nijuhachiho",
+  "koryu nepai",
+ ]
+}
+
+info = {
+  """A Shotokan kata based on a form from white crane style kung fu.
+  Meaning 28 steps, nijuhachiho is a shotokan variation of koryu nepai, an old okinawan naha-te kata from which the popular 
+  shito ryu kata nipaipo originated. As with gankaku sho, this kata was introduced into the SKIF syllabus by Kanazawa Soke
+  in an effort to expand to scope of shotokan kata. Possible the hardest Kata found within Shotokan, nijuhachiho
+  makes use of many different angles and open hand techniques, using moves more commonly found within goju ryu kata
+  favouring short range techniques attacking vulnerable points. The kata also gives bunkai for various gr4appling situations.
+  Although the kata is not widely practised outside SKIF and is not legal within WKF competitions it has become popular within
+  SKIF amoung senior instructor."""
+}
+
+links = {
+  [
+    "https://www.youtube.com/watch?v=1uQz3zjPbFU",
+  ]
+}
