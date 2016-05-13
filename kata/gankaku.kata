@@ -5,11 +5,22 @@ name = {
 }
 
 info = {
-  ""
+  """ Gankaku, roughly translating to crane on a rock is an advanced Shotokan kata, taught in most schools.
+  The kata originates from an old okinawan kata named Chinto and was rearranged by Gichin Funakoshi upon its
+  introduction to mainland Japan. Unlike the orginal the modified version created by Funakoshi has a far more 
+  linear embusen and contains many common Shotokan stances such as kiba dachi and kokutsu dachi. Also new to 
+  the Gankaku is the signature move from which its name derives where by the karateka assumes a Tsuru ashi
+  dachi while performing a manji uke.
+  
+  Due to its complexity and the balance required for the end sequence of the kata, it has become increasing 
+  popular in competition. Although not as athletic as Unsu, the kata is often seen in the finals of top level 
+  WKF competitions the kata has been performed in the finals of team kata in 2012 by male team Italy and 2014 
+  by female team Germany."""  
 }
 
 links = {
   [
     "https://www.youtube.com/watch?v=4HobC6dj8jA",
+    "https://www.youtube.com/watch?v=g_qi1M3J-zg",
   ]
 }
