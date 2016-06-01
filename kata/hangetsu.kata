@@ -5,6 +5,8 @@ name = {
 }
 
 info = {
+  """ 
+  Hangetsu is a high level Shotokan kata originating from
   the widely practiced okinawan kata seisan. There are two
   main versions of the original seisan, the naha te and shuri
   te lineage kata however the shotokan version borrows elements 
